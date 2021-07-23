@@ -7,9 +7,12 @@ intents were predefined in a JSON file. future version will be updated to give t
 
 
 INSTRUCTIONS:
-Run train_chatbot.py after installing requirements
-to generate chatbot_model.h5
-run chatgui.py after training the chatbot.py
+Run train_chatbot.py after installing requirements -> Chatbot_model.h5
+
+
+#1ignore Tensorflow errors if you dont gave a GUI setup
+#2 Let epoches reach 200/200
+#3run chatgui.py 
 
 
 
@@ -17,4 +20,5 @@ run chatgui.py after training the chatbot.py
 
 TO/DO:
 Data scrap from reddit/medical
+train model to give it a wider vocabulary. 
 
