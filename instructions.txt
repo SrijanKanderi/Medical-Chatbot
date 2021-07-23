@@ -1,0 +1,3 @@
+Run train_chatbot.py after installing requirements
+to generate chatbot_model.h5
+run chatgui.py after training the chatbot.py
